@@ -18,9 +18,13 @@ Questions for the client
 14. Restaurant accessible for outsiders? - Yes
 15. Multiple locations? - Yes.
 
+The client
+----------
+Our client is the owner of a hotel chain called "Paradise with a View". He would like to increase his popularity and revenue by updating his current website. The website should be inviting and make the user feel as if he's already imagining his holiday while roaming the new website. There should be a clear difference between the hotel and the option to rent-a-house. Though the rent-a-house, should not feel like a rental service at all. It should still be inviting and give the user a holiday experience while being there and viewing it on the website. 
+
 The problem/opportunity 
 -----------------------
-Problem: the client would like to increase his revenue through a better website. Since the website is also costing him a lot of investments 
+Problem: the client would like to increase his revenue through a better website. Since the website is also costing him a lot of investment.
 
 Objectives
 ----------

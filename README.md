@@ -18,7 +18,7 @@ Questions for the client
 14. Restaurant accessible for outsiders? - Yes
 15. Multiple locations? - Yes.
 
-The problem/oppertunity 
+The problem/opportunity 
 -----------------------
 Problem: the client would like to increase his revenue through a better website. Since the website is also costing him a lot of investments 
 

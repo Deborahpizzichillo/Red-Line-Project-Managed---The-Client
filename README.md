@@ -17,3 +17,16 @@ Questions for the client
 13. Accomodations? - All-in/full board/half board
 14. Restaurant accessible for outsiders? - Yes
 15. Multiple locations? - Yes.
+
+The problem/oppertunity 
+-----------------------
+Problem: the client would like to increase his revenue through a better website. Since the website is also costing him a lot of investments 
+
+Objectives
+----------
+To create an appealing and inviting website to the audience so they get pulled into booking their holiday stay at the client's hotel. 
+
+Target audience
+---------------
+Middle class audience, so no high society expectations. Keep it simple and clean!
+Clear difference between hotel and rent-a-house but both should have a 'holiday feel' to it. 
